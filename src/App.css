@@ -573,7 +573,7 @@
   }
   @media (min-width:1500px) and (max-width:2560px){
     .filter{
-      margin-top: 4rem;
+      margin-top: 1.5rem;
       padding:2rem;
     }
   }
